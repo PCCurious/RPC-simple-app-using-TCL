@@ -1,6 +1,8 @@
-#Simple Calculator using RPC and TCL Programming Language#
+Simple Calculator using RPC and TCL Programming Language
+-----------------------------------------------------------------------
 
 This project is an university project to implement a **simple RPC Client-Server**, coded on **TCL Programming Language**
+
 -----------------------------------------------------------------------
 **_HOW TO USE_**
 Inside of this folder has two files: **client.tcl** and **server.tcl** which needs TCL Shell to run.
@@ -28,7 +30,10 @@ Inside of this folder has two files: **client.tcl** and **server.tcl** which nee
 **3-** On the second window, please run **tclsh** and press enter. On the next line please input **source client.tcl** and press enter.
 
 **4-** Enjoy the Calculator
+
+
 -----------------------------------------------------------------------
 
 **_OBSERVATIONS:_**
+
 THE DEFAULT FILE RUNS ON SAME MACHINE ON LOCALHOST. IF NEEDED TO RUN ON OTHER MACHINE PLEASE REFER TO THE CLIENT.TCL FILE, AT **set server_address "localhost"** AND CHANGE **_LOCALHOST_** FOR THE DESIRED IP ADDRESS OF THE SERVER MACHINE
