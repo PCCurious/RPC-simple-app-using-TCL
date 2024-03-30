@@ -5,7 +5,10 @@ This project is an university project to implement a **simple RPC Client-Server*
 
 -----------------------------------------------------------------------
 **_HOW TO USE_**
+
 Inside of this folder has two files: **client.tcl** and **server.tcl** which needs TCL Shell to run.
+
+-----------------------------------------------------------------------
 
 **_WINDOWS USERS_**
 
@@ -19,8 +22,10 @@ Inside of this folder has two files: **client.tcl** and **server.tcl** which nee
 
 **4-** Enjoy the Calculator
 
+-----------------------------------------------------------------------
 
 **_LINUX USERS_**
+
 **0-** Normally TCL comes with the OS. If not, please install as usual for your linux machine.
 
 **1-** After installing please open two **Terminals** on this folder _or navigate to this folder on Terminal using the cd command_.
