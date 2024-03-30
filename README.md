@@ -8,10 +8,15 @@ It was coded on **TCL Programming Language**
 Inside of this folder has two files: **client.tcl** and **server.tcl** which needs TCL Shell to run.
 
 **_WINDOWS USERS_**
+
 **0-** TCL needs to be installed on the machine in order to work properly. Please go to ** https://www.tcl3d.org/bawt/download.html ** and download **BAWT 2.3.1 Tcl-Bl - Windows Installer 8.6.13** which is the stable version and run the setup. Please keep in mind to install the proper **32 bit or 64 bit** version.
+
 **1-** After installing, open two **Windows PowerShell** on this folder _or navigate to this folder on the PowerShell using the cd command_.
+
 **2-** On first window, please run **tclsh** and press enter. On the following line please input **source server.tcl** and press enter.
+
 **3-** On the second window, please run **tclsh** and press enter. On the next line please input **source client.tcl** and press enter.
+
 **4-** Enjoy the Calculator
 
 **_LINUX USERS_**
